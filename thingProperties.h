@@ -15,7 +15,7 @@ void onBLEEMERGENCYCLOUDChange();
 float BLE_MOTOR_SPEED_CLOUD;
 bool BLE_EMERGENCY_CLOUD;
 
-void initProperties(){
+void initProperties() {
 
   ArduinoCloud.addProperty(BLE_MOTOR_SPEED_CLOUD, READWRITE, ON_CHANGE, onBLEMOTORSPEEDCLOUDChange);
   ArduinoCloud.addProperty(BLE_EMERGENCY_CLOUD, READWRITE, ON_CHANGE, onBLEEMERGENCYCLOUDChange);

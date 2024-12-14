@@ -1,9 +1,9 @@
 # ENSC-100W Design Lab Automated-Helly's
 
 SFU ENSC 100W Group project
-Code and Circuit Design for Automated Heely’s
+Code and Circuit Design for Automated Helly’s
 
-For our ENSC 100W Design Lab project, my task was to design and implement the code and circuit for the Automated Heely’s. The electronics system uses an Arduino Nano 33 BLE microcontroller, an Electronic Speed Controller (ESC), and an ESC-compatible battery to control the motor speed and direction.
+For our ENSC 100W Design Lab project, my task was to design and implement the code and circuit for the Automated Helly’s. The electronics system uses an Arduino Nano 33 BLE microcontroller, an Electronic Speed Controller (ESC), and an ESC-compatible battery to control the motor speed and direction.
 
 Key Features of the System:
 
@@ -27,7 +27,7 @@ Smooth Speed Transitions: The ramping algorithm prevents sudden speed changes th
 
 Connection Safety: If the BLE connection is lost, the motor stops automatically to prevent accidents.
 
-Compact and Efficient Design: The Arduino Nano 33 BLE enables wireless communication and motor control in a compact and lightweight package, suitable for wearable devices like the Automated Heely’s.
+Compact and Efficient Design: The Arduino Nano 33 BLE enables wireless communication and motor control in a compact and lightweight package, suitable for wearable devices like the Automated Helly’s.
 
 Future Enhancements:
 
